@@ -1,0 +1,17 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    /*No se cambia el tamaño de fuente desde css*/
+}
+
+/* body header, section {
+    background-color: #28A745;
+} */
+
+nav img, footer img {
+    width: 86pt;
+    height: 25pt;
+}
+
+/* .price {
+    color: #28A745;
+} */
